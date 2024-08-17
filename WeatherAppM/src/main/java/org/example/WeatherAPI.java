@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class WeatherAPI {
 
-    public static final String API_KEY = "716419db2f661afd8599d42f7d5ccb03"; // Replace with your API key
+    public static final String API_KEY = "Replace with your API key"; // Replace with your API key
     public static final String BASE_URL = "https://api.openweathermap.org/data/2.5/weather";
 
     public static void weathergrouped() {
